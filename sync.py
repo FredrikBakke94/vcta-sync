@@ -117,11 +117,35 @@ def fetch_vcta():
     return data
 
 
-def build_payload(raw):
-    team     = raw["ownedTeams"][0]
-    campaign = raw["campaigns"][0]
+def merge_owned_teams(owned_teams):
+    """Merge all owned teams into a single member list and totals.
+    If the same person (by email) appears in multiple teams their
+    stats are summed and trophies are de-duplicated."""
+    by_email = {}
+    for team in owned_teams:
+        for m in team["ps"]:
+            email = m["e"]
+            if email not in by_email:
+                by_email[email] = dict(m)  # first occurrence wins, ignore duplicates
 
-    members = sorted(team["ps"], key=lambda m: (-m["d"], -m["k"]))
+    members = list(by_email.values())
+    return {
+        "name":      owned_teams[0]["c"],   # use company name as the unified team name
+        "company":   owned_teams[0]["c"],
+        "seats":     sum(t["s"] for t in owned_teams),
+        "totalDays": sum(m["d"]  for m in members),
+        "totalKm":   round(sum(m["k"]  for m in members), 1),
+        "playDays":  sum(m["pd"] for m in members),
+        "playKm":    round(sum(m["pk"] for m in members), 1),
+    }, members
+
+
+def build_payload(raw):
+    owned_teams = raw["ownedTeams"]
+    campaign    = raw["campaigns"][0]
+
+    team, all_members = merge_owned_teams(owned_teams)
+    members = sorted(all_members, key=lambda m: (-m["d"], -m["k"]))
 
     return {
         "updated": datetime.now().isoformat(),
@@ -130,15 +154,7 @@ def build_payload(raw):
             "startDataEntry": campaign["startDataEntry"],
             "endDataEntry":   campaign["endDataEntry"],
         },
-        "team": {
-            "name":      team["n"],
-            "company":   team["c"],
-            "seats":     team["s"],
-            "totalDays": team["d"],
-            "totalKm":   round(team["k"], 1),
-            "playDays":  team["pd"],
-            "playKm":    round(team["pk"], 1),
-        },
+        "team": team,
         "members": [
             {
                 "name":      m["n"],

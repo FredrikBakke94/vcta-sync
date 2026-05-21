@@ -1,8 +1,6 @@
 name: VCTA Sync
 
 on:
-  schedule:
-    - cron: "*/30 * * * *"  # every 30 minutes
   workflow_dispatch:         # allows manual trigger from GitHub UI
 
 jobs:

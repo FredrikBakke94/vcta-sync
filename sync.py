@@ -29,8 +29,7 @@ from pathlib import Path
 import requests
 
 # -- Config --------------------------------------------------------------------
-JSONBIN_MASTER_KEY = "$2a$10$T5Gr8moeChNgWFEpzpkbV.xklP2b25TzPXX2GFSIiSEZOZQGPr/62"
-JSONBIN_BIN_ID     = "69fb04bbaaba882197795fd0"
+DATA_FILE = Path(__file__).parent / "data.json"
 COOKIES_FILE       = Path(__file__).parent / "cookies.txt"
 # ------------------------------------------------------------------------------
 
@@ -171,26 +170,9 @@ def build_payload(raw):
 
 
 def push(payload):
-    import time
-    for attempt in range(1, 4):
-        try:
-            r = requests.put(
-                f"https://api.jsonbin.io/v3/b/{JSONBIN_BIN_ID}",
-                json=payload,
-                headers={
-                    "Content-Type":     "application/json",
-                    "X-Master-Key":     JSONBIN_MASTER_KEY,
-                    "X-Bin-Versioning": "false",
-                },
-                timeout=45,
-            )
-            r.raise_for_status()
-            return
-        except (requests.exceptions.Timeout, requests.exceptions.HTTPError) as e:
-            if attempt == 3:
-                sys.exit(f"JSONBin failed after 3 attempts: {e}")
-            print(f"  JSONBin error (attempt {attempt}/3), retrying in 5s… ({e})")
-            time.sleep(5)
+    import json
+    DATA_FILE.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"  Written to {DATA_FILE}")
 
 
 if __name__ == "__main__":
@@ -203,6 +185,6 @@ if __name__ == "__main__":
     print(f"  Lodder : {t['totalDays']}  |  km: {t['totalKm']}")
     print(f"  Members: {len(payload['members'])}")
 
-    print("Uploading to JSONBin…")
+    print("Writing data.json…")
     push(payload)
     print(f"Done — updated at {payload['updated']}")

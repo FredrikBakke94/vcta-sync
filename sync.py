@@ -171,6 +171,7 @@ def build_payload(raw):
 
 
 def push(payload):
+    import time
     for attempt in range(1, 4):
         try:
             r = requests.put(
@@ -185,10 +186,11 @@ def push(payload):
             )
             r.raise_for_status()
             return
-        except requests.exceptions.Timeout:
+        except (requests.exceptions.Timeout, requests.exceptions.HTTPError) as e:
             if attempt == 3:
-                sys.exit("JSONBin timed out after 3 attempts — try again later.")
-            print(f"  JSONBin timeout (attempt {attempt}/3), retrying…")
+                sys.exit(f"JSONBin failed after 3 attempts: {e}")
+            print(f"  JSONBin error (attempt {attempt}/3), retrying in 5s… ({e})")
+            time.sleep(5)
 
 
 if __name__ == "__main__":

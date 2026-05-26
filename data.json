@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-26T07:00:40.029461",
+  "updated": "2026-05-26T07:30:30.156715",
   "campaign": {
     "name": "VI CYKLER TIL ARBEJDE 2026",
     "startDataEntry": "2026-05-01T00:00:00",
@@ -9,8 +9,8 @@
     "name": "Cabana Aps",
     "company": "Cabana Aps",
     "seats": 17,
-    "totalDays": 177,
-    "totalKm": 1589.6,
+    "totalDays": 179,
+    "totalKm": 1600.0,
     "playDays": 52,
     "playKm": 497.1
   },
@@ -22,13 +22,13 @@
       "playDays": 8,
       "playKm": 53.4,
       "trophies": [
-        6,
-        1,
-        3,
-        2,
-        10,
         4,
-        5
+        1,
+        5,
+        2,
+        3,
+        6,
+        10
       ],
       "isCaptain": true
     },
@@ -39,12 +39,27 @@
       "playDays": 3,
       "playKm": 20.0,
       "trophies": [
-        8,
-        2,
-        6,
         5,
+        2,
+        1,
+        8,
+        6,
+        3
+      ],
+      "isCaptain": false
+    },
+    {
+      "name": "Andreas Juul",
+      "days": 14,
+      "km": 111.2,
+      "playDays": 1,
+      "playKm": 2.0,
+      "trophies": [
+        2,
         3,
-        1
+        6,
+        1,
+        5
       ],
       "isCaptain": false
     },
@@ -56,8 +71,8 @@
       "playKm": 9.0,
       "trophies": [
         1,
-        3,
-        2
+        2,
+        3
       ],
       "isCaptain": false
     },
@@ -68,9 +83,9 @@
       "playDays": 0,
       "playKm": 0.0,
       "trophies": [
-        2,
         1,
-        3
+        3,
+        2
       ],
       "isCaptain": false
     },
@@ -94,14 +109,14 @@
       "playDays": 8,
       "playKm": 160.4,
       "trophies": [
-        2,
+        6,
         4,
-        5,
+        2,
         10,
-        11,
         1,
-        3,
-        6
+        5,
+        11,
+        3
       ],
       "isCaptain": false
     },
@@ -112,24 +127,9 @@
       "playDays": 8,
       "playKm": 30.5,
       "trophies": [
-        1,
         3,
         6,
-        2
-      ],
-      "isCaptain": false
-    },
-    {
-      "name": "Andreas Juul",
-      "days": 12,
-      "km": 100.8,
-      "playDays": 1,
-      "playKm": 2.0,
-      "trophies": [
-        3,
         1,
-        6,
-        5,
         2
       ],
       "isCaptain": false
@@ -141,8 +141,8 @@
       "playDays": 1,
       "playKm": 9.0,
       "trophies": [
-        3,
         1,
+        3,
         2
       ],
       "isCaptain": false
@@ -154,10 +154,10 @@
       "playDays": 4,
       "playKm": 59.9,
       "trophies": [
-        3,
-        2,
-        6,
         1,
+        2,
+        3,
+        6,
         5
       ],
       "isCaptain": false
@@ -170,8 +170,8 @@
       "playKm": 15.0,
       "trophies": [
         1,
-        6,
         3,
+        6,
         5,
         8
       ],
@@ -184,9 +184,9 @@
       "playDays": 9,
       "playKm": 82.0,
       "trophies": [
-        1,
         7,
         2,
+        1,
         6,
         3
       ],
@@ -199,8 +199,8 @@
       "playDays": 1,
       "playKm": 5.0,
       "trophies": [
-        3,
-        1
+        1,
+        3
       ],
       "isCaptain": false
     },
@@ -236,8 +236,8 @@
       "playDays": 1,
       "playKm": 6.9,
       "trophies": [
-        3,
-        1
+        1,
+        3
       ],
       "isCaptain": false
     },

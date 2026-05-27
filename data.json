@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-27T10:45:22.267640",
+  "updated": "2026-05-27T11:00:41.355478",
   "campaign": {
     "name": "VI CYKLER TIL ARBEJDE 2026",
     "startDataEntry": "2026-05-01T00:00:00",
@@ -9,12 +9,25 @@
     "name": "Cabana Aps",
     "company": "Cabana Aps",
     "seats": 17,
-    "totalDays": 186,
-    "totalKm": 1664.7,
+    "totalDays": 193,
+    "totalKm": 1720.4,
     "playDays": 58,
     "playKm": 542.3
   },
   "members": [
+    {
+      "name": "Freja From Koop",
+      "days": 19,
+      "km": 168.1,
+      "playDays": 0,
+      "playKm": 0.0,
+      "trophies": [
+        3,
+        2,
+        1
+      ],
+      "isCaptain": false
+    },
     {
       "name": "Magnus Jensen",
       "days": 16,
@@ -64,6 +77,19 @@
       "isCaptain": false
     },
     {
+      "name": "Yuqing  Zhang",
+      "days": 14,
+      "km": 76.0,
+      "playDays": 0,
+      "playKm": 0.0,
+      "trophies": [
+        2,
+        3,
+        1
+      ],
+      "isCaptain": false
+    },
+    {
       "name": "Ida",
       "days": 14,
       "km": 32.0,
@@ -92,32 +118,6 @@
         5,
         11,
         3
-      ],
-      "isCaptain": false
-    },
-    {
-      "name": "Freja From Koop",
-      "days": 13,
-      "km": 116.4,
-      "playDays": 0,
-      "playKm": 0.0,
-      "trophies": [
-        3,
-        2,
-        1
-      ],
-      "isCaptain": false
-    },
-    {
-      "name": "Yuqing  Zhang",
-      "days": 13,
-      "km": 72.0,
-      "playDays": 0,
-      "playKm": 0.0,
-      "trophies": [
-        2,
-        3,
-        1
       ],
       "isCaptain": false
     },

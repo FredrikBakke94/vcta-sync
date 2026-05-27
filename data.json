@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-27T07:00:38.877480",
+  "updated": "2026-05-27T07:30:35.941405",
   "campaign": {
     "name": "VI CYKLER TIL ARBEJDE 2026",
     "startDataEntry": "2026-05-01T00:00:00",
@@ -9,16 +9,16 @@
     "name": "Cabana Aps",
     "company": "Cabana Aps",
     "seats": 17,
-    "totalDays": 181,
-    "totalKm": 1613.4,
-    "playDays": 55,
-    "playKm": 512.1
+    "totalDays": 185,
+    "totalKm": 1658.7,
+    "playDays": 57,
+    "playKm": 540.3
   },
   "members": [
     {
       "name": "Magnus Jensen",
-      "days": 14,
-      "km": 206.3,
+      "days": 16,
+      "km": 232.5,
       "playDays": 8,
       "playKm": 53.4,
       "trophies": [
@@ -34,10 +34,10 @@
     },
     {
       "name": "Sebastian Clausen",
-      "days": 14,
-      "km": 173.2,
-      "playDays": 3,
-      "playKm": 20.0,
+      "days": 15,
+      "km": 178.5,
+      "playDays": 4,
+      "playKm": 35.2,
       "trophies": [
         5,
         2,
@@ -77,6 +77,24 @@
       "isCaptain": false
     },
     {
+      "name": "Fredrik Lysgaard Bakke",
+      "days": 13,
+      "km": 221.8,
+      "playDays": 9,
+      "playKm": 173.4,
+      "trophies": [
+        6,
+        4,
+        2,
+        10,
+        1,
+        5,
+        11,
+        3
+      ],
+      "isCaptain": false
+    },
+    {
       "name": "Freja From Koop",
       "days": 13,
       "km": 116.4,
@@ -99,24 +117,6 @@
         2,
         3,
         1
-      ],
-      "isCaptain": false
-    },
-    {
-      "name": "Fredrik Lysgaard Bakke",
-      "days": 12,
-      "km": 208.0,
-      "playDays": 8,
-      "playKm": 160.4,
-      "trophies": [
-        6,
-        4,
-        2,
-        10,
-        1,
-        5,
-        11,
-        3
       ],
       "isCaptain": false
     },
@@ -187,8 +187,8 @@
         7,
         2,
         1,
-        3,
-        6
+        6,
+        3
       ],
       "isCaptain": false
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-28T22:00:35.405365",
+  "updated": "2026-05-28T22:15:24.219524",
   "campaign": {
     "name": "VI CYKLER TIL ARBEJDE 2026",
     "startDataEntry": "2026-05-01T00:00:00",
@@ -98,14 +98,14 @@
       "playKm": 173.4,
       "trophies": [
         6,
-        4,
+        7,
         2,
+        4,
         10,
         1,
         5,
         11,
-        3,
-        7
+        3
       ],
       "isCaptain": false
     },

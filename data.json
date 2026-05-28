@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-28T07:30:31.266962",
+  "updated": "2026-05-28T07:45:20.889835",
   "campaign": {
     "name": "VI CYKLER TIL ARBEJDE 2026",
     "startDataEntry": "2026-05-01T00:00:00",
@@ -9,8 +9,8 @@
     "name": "Cabana Aps",
     "company": "Cabana Aps",
     "seats": 17,
-    "totalDays": 199,
-    "totalKm": 1763.8,
+    "totalDays": 201,
+    "totalKm": 1796.3,
     "playDays": 58,
     "playKm": 542.3
   },
@@ -22,9 +22,9 @@
       "playDays": 0,
       "playKm": 0.0,
       "trophies": [
-        3,
         1,
-        2
+        2,
+        3
       ],
       "isCaptain": false
     },
@@ -36,12 +36,12 @@
       "playKm": 53.4,
       "trophies": [
         4,
-        1,
+        10,
         5,
+        1,
         2,
         3,
-        6,
-        10
+        6
       ],
       "isCaptain": true
     },
@@ -52,11 +52,11 @@
       "playDays": 1,
       "playKm": 2.0,
       "trophies": [
-        1,
-        6,
-        5,
+        2,
         3,
-        2
+        6,
+        1,
+        5
       ],
       "isCaptain": false
     },
@@ -70,9 +70,41 @@
         5,
         2,
         1,
+        8,
         6,
-        3,
-        8
+        3
+      ],
+      "isCaptain": false
+    },
+    {
+      "name": "Fredrik Lysgaard Bakke",
+      "days": 14,
+      "km": 248.7,
+      "playDays": 9,
+      "playKm": 173.4,
+      "trophies": [
+        7,
+        4,
+        6,
+        10,
+        2,
+        1,
+        5,
+        11,
+        3
+      ],
+      "isCaptain": false
+    },
+    {
+      "name": "Elias Boussnina",
+      "days": 14,
+      "km": 78.4,
+      "playDays": 1,
+      "playKm": 9.0,
+      "trophies": [
+        2,
+        1,
+        3
       ],
       "isCaptain": false
     },
@@ -83,9 +115,9 @@
       "playDays": 0,
       "playKm": 0.0,
       "trophies": [
-        1,
         2,
-        3
+        3,
+        1
       ],
       "isCaptain": false
     },
@@ -103,48 +135,16 @@
       "isCaptain": false
     },
     {
-      "name": "Fredrik Lysgaard Bakke",
-      "days": 13,
-      "km": 221.8,
-      "playDays": 9,
-      "playKm": 173.4,
-      "trophies": [
-        2,
-        4,
-        10,
-        1,
-        5,
-        11,
-        3,
-        6,
-        7
-      ],
-      "isCaptain": false
-    },
-    {
-      "name": "Elias Boussnina",
-      "days": 13,
-      "km": 72.8,
-      "playDays": 1,
-      "playKm": 9.0,
-      "trophies": [
-        3,
-        1,
-        2
-      ],
-      "isCaptain": false
-    },
-    {
       "name": "Anne Mai Særker-Sørensen",
       "days": 12,
       "km": 137.6,
       "playDays": 8,
       "playKm": 30.5,
       "trophies": [
-        1,
+        2,
         3,
         6,
-        2
+        1
       ],
       "isCaptain": false
     },
@@ -155,11 +155,11 @@
       "playDays": 11,
       "playKm": 92.0,
       "trophies": [
-        1,
+        7,
         2,
-        3,
+        1,
         6,
-        7
+        3
       ],
       "isCaptain": false
     },
@@ -171,8 +171,8 @@
       "playKm": 22.0,
       "trophies": [
         1,
-        3,
         6,
+        3,
         8,
         5
       ],

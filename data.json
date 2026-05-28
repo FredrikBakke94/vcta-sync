@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-28T09:30:30.169449",
+  "updated": "2026-05-28T09:45:22.790883",
   "campaign": {
     "name": "VI CYKLER TIL ARBEJDE 2026",
     "startDataEntry": "2026-05-01T00:00:00",
@@ -9,8 +9,8 @@
     "name": "Cabana Aps",
     "company": "Cabana Aps",
     "seats": 17,
-    "totalDays": 202,
-    "totalKm": 1813.3,
+    "totalDays": 205,
+    "totalKm": 1850.7,
     "playDays": 58,
     "playKm": 542.3
   },
@@ -77,6 +77,20 @@
       "isCaptain": false
     },
     {
+      "name": "Anne Mai Særker-Sørensen",
+      "days": 15,
+      "km": 175.0,
+      "playDays": 8,
+      "playKm": 30.5,
+      "trophies": [
+        2,
+        3,
+        6,
+        1
+      ],
+      "isCaptain": false
+    },
+    {
       "name": "Fredrik Lysgaard Bakke",
       "days": 14,
       "km": 248.7,
@@ -131,20 +145,6 @@
         1,
         2,
         3
-      ],
-      "isCaptain": false
-    },
-    {
-      "name": "Anne Mai Særker-Sørensen",
-      "days": 12,
-      "km": 137.6,
-      "playDays": 8,
-      "playKm": 30.5,
-      "trophies": [
-        2,
-        3,
-        6,
-        1
       ],
       "isCaptain": false
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-28T07:15:25.368734",
+  "updated": "2026-05-28T07:30:31.266962",
   "campaign": {
     "name": "VI CYKLER TIL ARBEJDE 2026",
     "startDataEntry": "2026-05-01T00:00:00",
@@ -9,8 +9,8 @@
     "name": "Cabana Aps",
     "company": "Cabana Aps",
     "seats": 17,
-    "totalDays": 196,
-    "totalKm": 1747.4,
+    "totalDays": 199,
+    "totalKm": 1763.8,
     "playDays": 58,
     "playKm": 542.3
   },
@@ -22,8 +22,8 @@
       "playDays": 0,
       "playKm": 0.0,
       "trophies": [
-        1,
         3,
+        1,
         2
       ],
       "isCaptain": false
@@ -46,6 +46,21 @@
       "isCaptain": true
     },
     {
+      "name": "Andreas Juul",
+      "days": 16,
+      "km": 121.6,
+      "playDays": 1,
+      "playKm": 2.0,
+      "trophies": [
+        1,
+        6,
+        5,
+        3,
+        2
+      ],
+      "isCaptain": false
+    },
+    {
       "name": "Sebastian Clausen",
       "days": 15,
       "km": 178.5,
@@ -55,24 +70,9 @@
         5,
         2,
         1,
-        8,
         6,
-        3
-      ],
-      "isCaptain": false
-    },
-    {
-      "name": "Andreas Juul",
-      "days": 14,
-      "km": 111.2,
-      "playDays": 1,
-      "playKm": 2.0,
-      "trophies": [
-        2,
         3,
-        6,
-        1,
-        5
+        8
       ],
       "isCaptain": false
     },
@@ -83,9 +83,9 @@
       "playDays": 0,
       "playKm": 0.0,
       "trophies": [
+        1,
         2,
-        3,
-        1
+        3
       ],
       "isCaptain": false
     },
@@ -109,15 +109,15 @@
       "playDays": 9,
       "playKm": 173.4,
       "trophies": [
-        6,
-        4,
         2,
+        4,
         10,
-        7,
         1,
         5,
         11,
-        3
+        3,
+        6,
+        7
       ],
       "isCaptain": false
     },
@@ -128,8 +128,8 @@
       "playDays": 1,
       "playKm": 9.0,
       "trophies": [
-        1,
         3,
+        1,
         2
       ],
       "isCaptain": false
@@ -141,10 +141,25 @@
       "playDays": 8,
       "playKm": 30.5,
       "trophies": [
+        1,
         3,
         6,
-        1,
         2
+      ],
+      "isCaptain": false
+    },
+    {
+      "name": "Ana",
+      "days": 12,
+      "km": 75.3,
+      "playDays": 11,
+      "playKm": 92.0,
+      "trophies": [
+        1,
+        2,
+        3,
+        6,
+        7
       ],
       "isCaptain": false
     },
@@ -156,25 +171,10 @@
       "playKm": 22.0,
       "trophies": [
         1,
-        6,
         3,
+        6,
         8,
         5
-      ],
-      "isCaptain": false
-    },
-    {
-      "name": "Ana",
-      "days": 11,
-      "km": 69.3,
-      "playDays": 11,
-      "playKm": 92.0,
-      "trophies": [
-        7,
-        2,
-        1,
-        6,
-        3
       ],
       "isCaptain": false
     },

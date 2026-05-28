@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-28T07:45:20.889835",
+  "updated": "2026-05-28T08:00:37.576942",
   "campaign": {
     "name": "VI CYKLER TIL ARBEJDE 2026",
     "startDataEntry": "2026-05-01T00:00:00",
@@ -9,8 +9,8 @@
     "name": "Cabana Aps",
     "company": "Cabana Aps",
     "seats": 17,
-    "totalDays": 201,
-    "totalKm": 1796.3,
+    "totalDays": 202,
+    "totalKm": 1813.3,
     "playDays": 58,
     "playKm": 542.3
   },
@@ -30,8 +30,8 @@
     },
     {
       "name": "Magnus Jensen",
-      "days": 16,
-      "km": 232.5,
+      "days": 17,
+      "km": 249.5,
       "playDays": 8,
       "playKm": 53.4,
       "trophies": [

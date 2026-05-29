@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T10:15:20.839022",
+  "updated": "2026-05-29T10:30:33.062682",
   "campaign": {
     "name": "VI CYKLER TIL ARBEJDE 2026",
     "startDataEntry": "2026-05-01T00:00:00",
@@ -22,9 +22,9 @@
       "playDays": 0,
       "playKm": 0.0,
       "trophies": [
-        3,
         1,
-        2
+        2,
+        3
       ],
       "isCaptain": false
     },
@@ -35,12 +35,12 @@
       "playDays": 8,
       "playKm": 53.4,
       "trophies": [
-        10,
-        1,
         4,
-        2,
+        1,
         5,
+        2,
         3,
+        10,
         6
       ],
       "isCaptain": true
@@ -52,11 +52,11 @@
       "playDays": 2,
       "playKm": 14.1,
       "trophies": [
-        2,
-        3,
         6,
         1,
-        5
+        3,
+        5,
+        2
       ],
       "isCaptain": false
     },
@@ -81,15 +81,15 @@
       "playDays": 10,
       "playKm": 193.0,
       "trophies": [
-        6,
         4,
-        2,
+        7,
         10,
+        2,
         1,
         5,
         11,
         3,
-        7
+        6
       ],
       "isCaptain": false
     },
@@ -131,9 +131,9 @@
       "playDays": 1,
       "playKm": 9.0,
       "trophies": [
-        2,
+        3,
         1,
-        3
+        2
       ],
       "isCaptain": false
     },
@@ -145,8 +145,8 @@
       "playKm": 0.0,
       "trophies": [
         3,
-        2,
-        1
+        1,
+        2
       ],
       "isCaptain": false
     },
@@ -158,8 +158,8 @@
       "playKm": 9.0,
       "trophies": [
         1,
-        3,
-        2
+        2,
+        3
       ],
       "isCaptain": false
     },
@@ -170,11 +170,11 @@
       "playDays": 6,
       "playKm": 24.0,
       "trophies": [
-        1,
         6,
+        1,
         3,
-        8,
-        5
+        5,
+        8
       ],
       "isCaptain": false
     },
@@ -213,8 +213,8 @@
       "playDays": 1,
       "playKm": 5.0,
       "trophies": [
-        1,
-        3
+        3,
+        1
       ],
       "isCaptain": false
     },
@@ -225,8 +225,8 @@
       "playDays": 1,
       "playKm": 6.9,
       "trophies": [
-        3,
-        1
+        1,
+        3
       ],
       "isCaptain": false
     },

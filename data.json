@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T13:00:41.613226",
+  "updated": "2026-05-29T13:15:22.645592",
   "campaign": {
     "name": "VI CYKLER TIL ARBEJDE 2026",
     "startDataEntry": "2026-05-01T00:00:00",
@@ -10,7 +10,7 @@
     "company": "Cabana Aps",
     "seats": 17,
     "totalDays": 233,
-    "totalKm": 2088.8,
+    "totalKm": 2093.8,
     "playDays": 67,
     "playKm": 610.0
   },
@@ -63,7 +63,7 @@
     {
       "name": "Anne Mai Særker-Sørensen",
       "days": 16,
-      "km": 187.0,
+      "km": 192.0,
       "playDays": 8,
       "playKm": 30.5,
       "trophies": [

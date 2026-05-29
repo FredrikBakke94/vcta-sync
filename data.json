@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T11:45:22.777565",
+  "updated": "2026-05-29T12:00:39.602197",
   "campaign": {
     "name": "VI CYKLER TIL ARBEJDE 2026",
     "startDataEntry": "2026-05-01T00:00:00",
@@ -9,10 +9,10 @@
     "name": "Cabana Aps",
     "company": "Cabana Aps",
     "seats": 17,
-    "totalDays": 232,
-    "totalKm": 2083.8,
-    "playDays": 61,
-    "playKm": 576.0
+    "totalDays": 233,
+    "totalKm": 2088.8,
+    "playDays": 67,
+    "playKm": 610.0
   },
   "members": [
     {
@@ -245,15 +245,16 @@
     },
     {
       "name": "Simon Kjeldsen",
-      "days": 4,
-      "km": 15.0,
-      "playDays": 2,
-      "playKm": 42.0,
+      "days": 5,
+      "km": 20.0,
+      "playDays": 8,
+      "playKm": 76.0,
       "trophies": [
         1,
         3,
         4,
-        10
+        10,
+        2
       ],
       "isCaptain": false
     }

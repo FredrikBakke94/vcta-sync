@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-01T14:45:32.402464",
+  "updated": "2026-06-01T15:00:45.652945",
   "campaign": {
     "name": "VI CYKLER TIL ARBEJDE 2026",
     "startDataEntry": "2026-05-01T00:00:00",
@@ -9,12 +9,25 @@
     "name": "Cabana Aps",
     "company": "Cabana Aps",
     "seats": 17,
-    "totalDays": 235,
-    "totalKm": 2155.5,
+    "totalDays": 242,
+    "totalKm": 2162.5,
     "playDays": 74,
     "playKm": 712.2
   },
   "members": [
+    {
+      "name": "Ida",
+      "days": 21,
+      "km": 39.0,
+      "playDays": 2,
+      "playKm": 9.0,
+      "trophies": [
+        1,
+        3,
+        2
+      ],
+      "isCaptain": false
+    },
     {
       "name": "Freja From Koop",
       "days": 19,
@@ -160,19 +173,6 @@
         3,
         2,
         1
-      ],
-      "isCaptain": false
-    },
-    {
-      "name": "Ida",
-      "days": 14,
-      "km": 32.0,
-      "playDays": 2,
-      "playKm": 9.0,
-      "trophies": [
-        1,
-        3,
-        2
       ],
       "isCaptain": false
     },

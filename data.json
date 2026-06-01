@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-01T12:00:43.281744",
+  "updated": "2026-06-01T12:15:26.671571",
   "campaign": {
     "name": "VI CYKLER TIL ARBEJDE 2026",
     "startDataEntry": "2026-05-01T00:00:00",
@@ -11,8 +11,8 @@
     "seats": 17,
     "totalDays": 235,
     "totalKm": 2155.5,
-    "playDays": 73,
-    "playKm": 710.7
+    "playDays": 74,
+    "playKm": 712.2
   },
   "members": [
     {
@@ -80,8 +80,8 @@
       "name": "Anne Mai Særker-Sørensen",
       "days": 16,
       "km": 192.0,
-      "playDays": 8,
-      "playKm": 30.5,
+      "playDays": 9,
+      "playKm": 32.0,
       "trophies": [
         3,
         2,

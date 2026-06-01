@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-01T07:45:23.192819",
+  "updated": "2026-06-01T11:43:13.269986",
   "campaign": {
     "name": "VI CYKLER TIL ARBEJDE 2026",
     "startDataEntry": "2026-05-01T00:00:00",
@@ -10,7 +10,7 @@
     "company": "Cabana Aps",
     "seats": 17,
     "totalDays": 235,
-    "totalKm": 2142.5,
+    "totalKm": 2155.5,
     "playDays": 73,
     "playKm": 710.7
   },
@@ -121,7 +121,7 @@
     {
       "name": "Fredrik Lysgaard Bakke",
       "days": 15,
-      "km": 290.7,
+      "km": 303.7,
       "playDays": 10,
       "playKm": 193.0,
       "trophies": [

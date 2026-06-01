@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-01T06:00:37.662504",
+  "updated": "2026-06-01T06:15:20.407854",
   "campaign": {
     "name": "VI CYKLER TIL ARBEJDE 2026",
     "startDataEntry": "2026-05-01T00:00:00",
@@ -11,8 +11,8 @@
     "seats": 17,
     "totalDays": 234,
     "totalKm": 2110.5,
-    "playDays": 67,
-    "playKm": 610.0
+    "playDays": 70,
+    "playKm": 669.0
   },
   "members": [
     {
@@ -195,13 +195,15 @@
       "name": "Ana",
       "days": 13,
       "km": 81.3,
-      "playDays": 11,
-      "playKm": 92.0,
+      "playDays": 14,
+      "playKm": 151.0,
       "trophies": [
         1,
         2,
         3,
+        4,
         6,
+        10,
         7
       ],
       "isCaptain": false

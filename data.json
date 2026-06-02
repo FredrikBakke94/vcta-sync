@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-02T07:45:27.750812",
+  "updated": "2026-06-02T08:00:45.769780",
   "campaign": {
     "name": "VI CYKLER TIL ARBEJDE 2026",
     "startDataEntry": "2026-05-01T00:00:00",
@@ -9,8 +9,8 @@
     "name": "Cabana Aps",
     "company": "Cabana Aps",
     "seats": 17,
-    "totalDays": 242,
-    "totalKm": 2162.5,
+    "totalDays": 243,
+    "totalKm": 2174.5,
     "playDays": 74,
     "playKm": 712.2
   },
@@ -23,8 +23,8 @@
       "playKm": 9.0,
       "trophies": [
         1,
-        2,
-        3
+        3,
+        2
       ],
       "isCaptain": false
     },
@@ -48,13 +48,13 @@
       "playDays": 10,
       "playKm": 83.4,
       "trophies": [
-        6,
-        1,
-        3,
-        2,
         10,
+        1,
         5,
-        4
+        2,
+        4,
+        3,
+        6
       ],
       "isCaptain": true
     },
@@ -65,11 +65,11 @@
       "playDays": 2,
       "playKm": 14.1,
       "trophies": [
+        2,
         3,
-        1,
         6,
-        5,
-        2
+        1,
+        5
       ],
       "isCaptain": false
     },
@@ -80,12 +80,12 @@
       "playDays": 4,
       "playKm": 35.2,
       "trophies": [
-        8,
-        2,
-        6,
         5,
-        3,
-        1
+        2,
+        1,
+        8,
+        6,
+        3
       ],
       "isCaptain": false
     },
@@ -96,10 +96,10 @@
       "playDays": 9,
       "playKm": 32.0,
       "trophies": [
-        1,
-        2,
         3,
-        6
+        2,
+        6,
+        1
       ],
       "isCaptain": false
     },
@@ -110,10 +110,10 @@
       "playDays": 5,
       "playKm": 71.6,
       "trophies": [
-        3,
-        2,
-        6,
         1,
+        2,
+        3,
+        6,
         5
       ],
       "isCaptain": false
@@ -138,14 +138,14 @@
       "playDays": 10,
       "playKm": 193.0,
       "trophies": [
-        2,
-        4,
-        5,
-        10,
-        11,
-        1,
-        3,
         6,
+        4,
+        2,
+        10,
+        1,
+        5,
+        11,
+        3,
         7
       ],
       "isCaptain": false
@@ -170,8 +170,8 @@
       "playDays": 0,
       "playKm": 0.0,
       "trophies": [
-        2,
         3,
+        2,
         1
       ],
       "isCaptain": false
@@ -184,8 +184,8 @@
       "playKm": 24.0,
       "trophies": [
         1,
-        6,
         3,
+        6,
         8,
         5
       ],
@@ -199,12 +199,12 @@
       "playKm": 151.0,
       "trophies": [
         1,
-        7,
         2,
-        3,
         6,
         4,
-        10
+        3,
+        10,
+        7
       ],
       "isCaptain": false
     },
@@ -223,13 +223,13 @@
     },
     {
       "name": "Oscar Zakarias Moehrdel",
-      "days": 9,
-      "km": 75.0,
+      "days": 10,
+      "km": 87.0,
       "playDays": 1,
       "playKm": 5.0,
       "trophies": [
-        3,
-        1
+        1,
+        3
       ],
       "isCaptain": false
     },
@@ -252,11 +252,11 @@
       "playDays": 8,
       "playKm": 76.0,
       "trophies": [
-        2,
         1,
         3,
         4,
-        10
+        10,
+        2
       ],
       "isCaptain": false
     }

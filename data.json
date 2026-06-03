@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-03T08:15:23.567034",
+  "updated": "2026-06-03T08:30:39.452259",
   "campaign": {
     "name": "VI CYKLER TIL ARBEJDE 2026",
     "startDataEntry": "2026-05-01T00:00:00",
@@ -35,9 +35,9 @@
       "playDays": 0,
       "playKm": 0.0,
       "trophies": [
-        3,
         1,
-        2
+        2,
+        3
       ],
       "isCaptain": false
     },
@@ -48,13 +48,13 @@
       "playDays": 10,
       "playKm": 83.4,
       "trophies": [
-        10,
+        6,
         1,
-        5,
-        2,
-        4,
         3,
-        6
+        2,
+        5,
+        4,
+        10
       ],
       "isCaptain": true
     },
@@ -65,11 +65,11 @@
       "playDays": 2,
       "playKm": 14.1,
       "trophies": [
-        2,
         3,
-        6,
         1,
-        5
+        6,
+        5,
+        2
       ],
       "isCaptain": false
     },
@@ -80,12 +80,12 @@
       "playDays": 4,
       "playKm": 35.2,
       "trophies": [
-        5,
-        2,
-        1,
         8,
+        2,
         6,
-        3
+        5,
+        3,
+        1
       ],
       "isCaptain": false
     },
@@ -110,10 +110,10 @@
       "playDays": 5,
       "playKm": 71.6,
       "trophies": [
-        1,
-        2,
         3,
+        2,
         6,
+        1,
         5
       ],
       "isCaptain": false
@@ -125,8 +125,8 @@
       "playDays": 0,
       "playKm": 0.0,
       "trophies": [
-        2,
         1,
+        2,
         3
       ],
       "isCaptain": false
@@ -138,13 +138,13 @@
       "playDays": 10,
       "playKm": 193.0,
       "trophies": [
-        6,
         4,
         2,
         10,
-        1,
         5,
+        1,
         11,
+        6,
         3,
         7
       ],
@@ -157,9 +157,9 @@
       "playDays": 1,
       "playKm": 9.0,
       "trophies": [
-        2,
+        3,
         1,
-        3
+        2
       ],
       "isCaptain": false
     },
@@ -183,8 +183,8 @@
       "playDays": 6,
       "playKm": 24.0,
       "trophies": [
-        1,
         6,
+        1,
         3,
         8,
         5
@@ -198,13 +198,13 @@
       "playDays": 14,
       "playKm": 151.0,
       "trophies": [
-        1,
         2,
+        7,
+        1,
         6,
         4,
         3,
-        10,
-        7
+        10
       ],
       "isCaptain": false
     },
@@ -228,8 +228,8 @@
       "playDays": 1,
       "playKm": 5.0,
       "trophies": [
-        1,
-        3
+        3,
+        1
       ],
       "isCaptain": false
     },
@@ -240,8 +240,8 @@
       "playDays": 1,
       "playKm": 6.9,
       "trophies": [
-        3,
-        1
+        1,
+        3
       ],
       "isCaptain": false
     },
